@@ -12,7 +12,7 @@ I'm a dedicated Computer Science Enthusiast with a profound fascination in this 
 * ✉️  You can contact me at [reiincarnatiion@example.com](mailto:reiincarnatiion@gmail.com)
 * 🧠  I'm learning Artificial Intelligence and Machine Learning || Data Science 
 * 🤝  I'm open to collaborating on interesting projects
-
+ 
 ### Skills
 
 <p align="left">
