@@ -9,7 +9,7 @@ I'm a dedicated Computer Science Enthusiast with a profound fascination in this 
 🚀With the thirst for knowledge, I constantly explore new horizons, ensuring that I remain updated on evolving technologies and industry trends.🚀
 
 * 🌍  I'm based in Kakinada
-* ✉️  You can contact me at [reiincarnatiion@gmail.com](mailto:reiincarnatiion@gmail.com)
+* ✉️  You can contact me at [saireddy.annamareddy@gmail.com](mailto:saireddy.annamareddy@gmail.com)
 * 🧠  I'm learning Artificial Intelligence and Machine Learning || Data Science 
 * 🤝  I'm open to collaborating on interesting projects
  
