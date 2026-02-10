@@ -8,7 +8,7 @@ I'm a dedicated Computer Science Enthusiast with a profound fascination in this 
 💫I'm a self-motivated personality who is sociable with all.💫
 🚀With the thirst for knowledge, I constantly explore new horizons, ensuring that I remain updated on evolving technologies and industry trends.🚀
 
-* 🌍  I'm based in Kakinada
+* 🌍  I'm based in Hyderabad
 * ✉️  You can contact me at [saireddy.annamareddy@gmail.com](mailto:saireddy.annamareddy@gmail.com)
 * 🧠  I'm learning Artificial Intelligence and Machine Learning || Data Science 
 * 🤝  I'm open to collaborating on interesting projects
