@@ -1,56 +1,229 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif ) I'm Sai Reddy
-====================================================================================================================================
+<div align="center">
 
-Student at Aditya College of Engineering and Technology
----------------------------------------------
+# Hi 👋 I'm Sai Reddy
 
-I'm a dedicated Computer Science Enthusiast with a profound fascination in this field. I'm always open to learning new things.✨
-💫I'm a self-motivated personality who is sociable with all.💫
-🚀With the thirst for knowledge, I constantly explore new horizons, ensuring that I remain updated on evolving technologies and industry trends.🚀
+### Backend Engineer • AI Engineer • Distributed Systems Enthusiast
 
-* 🌍  I'm based in Hyderabad
-* ✉️  You can contact me at [saireddy.annamareddy@gmail.com](mailto:saireddy.annamareddy@gmail.com)
-* 🧠  I'm learning Artificial Intelligence and Machine Learning || Data Science 
-* 🤝  I'm open to collaborating on interesting projects
- 
-### Skills
+Building production backend systems, AI agents, and scalable LLM applications.
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=plastic&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=plastic&logo=styled-components&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=plastic&logo=jenkins&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=plastic&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=plastic&logo=bitbucket&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=plastic&logo=firefox&logoColor=#FF7139)
-
-### Connect Me 
-
-<p align="left"> 
-<a href="https://www.github.com/SaiReddyA-1" target="_blank" rel="noreferrer"> 
-<picture> 
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> 
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> 
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> 
-</picture> 
-</a> 
-<a href="https://www.linkedin.com/in/saireddy0annamareddy/" target="_blank" rel="noreferrer"> 
-<picture> 
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> 
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> 
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> 
-</picture> 
-</a> 
-<a href="https://www.stackoverflow.com" target="_blank" rel="noreferrer"> 
-<picture> 
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow-dark.svg" /> 
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" /> 
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /> 
-</picture> 
-</a>
+<p>
+<a href="mailto:saireddy.annamareddy@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/saireddy0annamareddy/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/></a>
+<a href="https://github.com/SaiReddyA-1"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/></a>
 </p>
 
-### Badges
+</div>
 
-<b>My GitHub Stats</b>
+---
 
-<a href="http://www.github.com/SaiReddyA-1"><img src="https://github-readme-stats.vercel.app/api?username=SaiReddyA-1&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="SaiReddyA-1's GitHub stats" /></a>
+# 👨‍💻 About Me
 
-<a href="http://www.github.com/SaiReddyA-1"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SaiReddyA-1&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+I'm a **Computer Science graduate (AI/ML & Data Science)** with professional experience building **production-grade backend systems, distributed microservices, AI agents, and enterprise Retrieval-Augmented Generation (RAG) applications**.
 
-<a href="http://www.github.com/SaiReddyA-1"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=SaiReddyA-1&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+Over the past year, I've worked on systems that power **real-world production workloads**, including event-driven architectures, cloud messaging, backend optimization, workflow automation, and LLM-powered applications.
 
-<a href="https://github.com/SaiReddyA-1" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiReddyA-1&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+I enjoy solving problems where **software engineering meets AI**, focusing on reliability, scalability, and clean architecture.
+
+- 📍 Hyderabad, India
+- 💼 Software Engineer @ EverUptime Technologies
+- 🤖 Former AI Agent Engineering Intern @ Growstack
+- 🚀 Interested in Backend Engineering, Distributed Systems & AI Engineering
+- 🌱 Always building something new
+
+---
+
+# 🚀 Professional Experience
+
+## Software Engineer Intern — EverUptime Technologies
+
+**Production Data Center Telemetry Platform (OOPDAAS)**
+
+- Built production backend services in **C#/.NET**
+- Developed event-driven microservices
+- Worked with Azure Service Bus, Event Hub, Event Grid
+- Optimized payload transfer by **30%**
+- Delivered under a strict **2-second production SLA**
+- Integrated MQTT & AMQP messaging
+
+---
+
+## AI Agent Engineering Intern — Growstack
+
+- Designed modular AI Agents
+- Built LLM-powered workflow automation
+- Integrated AI into production REST APIs
+- Developed automated API & UI testing pipelines
+- Reduced manual processing by **40%**
+
+---
+
+# 🛠 Tech Stack
+
+## Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=cs,java,python,cpp,javascript,html,css"/>
+</p>
+
+## Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=dotnet,spring,nodejs,express"/>
+</p>
+
+**Also Experienced With**
+
+- REST APIs
+- JWT Authentication
+- Microservices
+- Distributed Systems
+- System Design
+
+---
+
+## AI Engineering
+
+- Agentic AI
+- Retrieval-Augmented Generation (RAG)
+- OpenSearch
+- Llama
+- Groq API
+- Prompt Engineering
+- Vector Search
+- BERT
+- TensorFlow
+- PyTorch
+
+---
+
+## Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github"/>
+</p>
+
+### Messaging Systems
+
+- Azure Service Bus
+- Azure Event Grid
+- Azure Event Hub
+- MQTT
+- AMQP
+- Kafka
+- Mosquitto
+
+---
+
+## Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite"/>
+</p>
+
+Also worked with:
+
+- OpenSearch
+- Vector Databases
+
+---
+
+# ⭐ Featured Projects
+
+## 🧠 Enterprise Content Intelligence (RAG)
+
+Production-style enterprise knowledge assistant.
+
+### Highlights
+
+- Dockerized RAG Pipeline
+- OCR + Document Processing
+- Hybrid Search
+- CrossEncoder Re-ranking
+- Source Citation
+- Persistent Chat History
+- OpenSearch Vector Database
+- Incremental Indexing
+
+---
+
+## ⚡ OOPDAAS
+
+Production telemetry platform used for monitoring global data centers.
+
+Highlights:
+
+- Azure Event Grid
+- Azure Service Bus
+- Event Hub
+- MQTT
+- AMQP
+- High-throughput ingestion
+- Backend optimization
+- Distributed architecture
+
+---
+
+## 🤖 AI Agent Framework
+
+Designed multi-agent workflows capable of:
+
+- Automating business processes
+- Calling production REST APIs
+- Intelligent decision making
+- Automated testing
+- Selenium + REST Assured integration
+
+---
+
+# 🏆 Achievements
+
+🏅 Winner — AI Agent Competition
+
+🏅 Internship Award — Growstack Inc.
+
+🏅 Top 5% — College Coding Competition
+
+🏅 Smart India Hackathon Participant
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SaiReddyA-1&show_icons=true&hide_border=true&count_private=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiReddyA-1&layout=compact&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SaiReddyA-1&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 What I Love Building
+
+- High Performance Backend Systems
+- Distributed Systems
+- Event-Driven Architectures
+- AI Agents
+- Enterprise RAG Systems
+- LLM Applications
+- Cloud Native Services
+- System Design
+- Backend APIs
+- Developer Tools
+
+---
+
+<div align="center">
+
+### 💬 "Building software that scales, automates, and solves real-world problems."
+
+⭐ If you like my work, feel free to explore my repositories!
+
+</div>
